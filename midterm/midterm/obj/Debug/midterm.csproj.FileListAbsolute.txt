@@ -1,0 +1,20 @@
+C:\Users\EUROPEONLINE\Desktop\Fall\multitier application\Midterm Multi Tier\midterm\midterm\bin\Debug\midterm.exe.config
+C:\Users\EUROPEONLINE\Desktop\Fall\multitier application\Midterm Multi Tier\midterm\midterm\bin\Debug\midterm.exe
+C:\Users\EUROPEONLINE\Desktop\Fall\multitier application\Midterm Multi Tier\midterm\midterm\bin\Debug\midterm.pdb
+C:\Users\EUROPEONLINE\Desktop\Fall\multitier application\Midterm Multi Tier\midterm\midterm\obj\Debug\midterm.csproj.AssemblyReference.cache
+C:\Users\EUROPEONLINE\Desktop\Fall\multitier application\Midterm Multi Tier\midterm\midterm\obj\Debug\EmployeesDepartments.Form1.resources
+C:\Users\EUROPEONLINE\Desktop\Fall\multitier application\Midterm Multi Tier\midterm\midterm\obj\Debug\midterm.Properties.Resources.resources
+C:\Users\EUROPEONLINE\Desktop\Fall\multitier application\Midterm Multi Tier\midterm\midterm\obj\Debug\midterm.csproj.GenerateResource.cache
+C:\Users\EUROPEONLINE\Desktop\Fall\multitier application\Midterm Multi Tier\midterm\midterm\obj\Debug\midterm.csproj.CoreCompileInputs.cache
+C:\Users\EUROPEONLINE\Desktop\Fall\multitier application\Midterm Multi Tier\midterm\midterm\obj\Debug\midterm.exe
+C:\Users\EUROPEONLINE\Desktop\Fall\multitier application\Midterm Multi Tier\midterm\midterm\obj\Debug\midterm.pdb
+C:\Users\EUROPEONLINE\Downloads\20231027142148_Midterm_Multi_Tier\Midterm Multi Tier\midterm\midterm\bin\Debug\midterm.exe.config
+C:\Users\EUROPEONLINE\Downloads\20231027142148_Midterm_Multi_Tier\Midterm Multi Tier\midterm\midterm\bin\Debug\midterm.exe
+C:\Users\EUROPEONLINE\Downloads\20231027142148_Midterm_Multi_Tier\Midterm Multi Tier\midterm\midterm\bin\Debug\midterm.pdb
+C:\Users\EUROPEONLINE\Downloads\20231027142148_Midterm_Multi_Tier\Midterm Multi Tier\midterm\midterm\obj\Debug\midterm.csproj.AssemblyReference.cache
+C:\Users\EUROPEONLINE\Downloads\20231027142148_Midterm_Multi_Tier\Midterm Multi Tier\midterm\midterm\obj\Debug\EmployeesDepartments.Form1.resources
+C:\Users\EUROPEONLINE\Downloads\20231027142148_Midterm_Multi_Tier\Midterm Multi Tier\midterm\midterm\obj\Debug\midterm.Properties.Resources.resources
+C:\Users\EUROPEONLINE\Downloads\20231027142148_Midterm_Multi_Tier\Midterm Multi Tier\midterm\midterm\obj\Debug\midterm.csproj.GenerateResource.cache
+C:\Users\EUROPEONLINE\Downloads\20231027142148_Midterm_Multi_Tier\Midterm Multi Tier\midterm\midterm\obj\Debug\midterm.csproj.CoreCompileInputs.cache
+C:\Users\EUROPEONLINE\Downloads\20231027142148_Midterm_Multi_Tier\Midterm Multi Tier\midterm\midterm\obj\Debug\midterm.exe
+C:\Users\EUROPEONLINE\Downloads\20231027142148_Midterm_Multi_Tier\Midterm Multi Tier\midterm\midterm\obj\Debug\midterm.pdb

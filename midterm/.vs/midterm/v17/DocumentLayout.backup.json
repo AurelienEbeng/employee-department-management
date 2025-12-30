@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EUROPEONLINE\\Downloads\\20231027142148_Midterm_Multi_Tier\\Midterm Multi Tier\\midterm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6A83F2-A3C3-4A7E-AD58-0CB445F53E95}|midterm\\midterm.csproj|C:\\Users\\EUROPEONLINE\\Downloads\\20231027142148_Midterm_Multi_Tier\\Midterm Multi Tier\\midterm\\midterm\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6A83F2-A3C3-4A7E-AD58-0CB445F53E95}|midterm\\midterm.csproj|solutionrelative:midterm\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6A83F2-A3C3-4A7E-AD58-0CB445F53E95}|midterm\\midterm.csproj|C:\\Users\\EUROPEONLINE\\Downloads\\20231027142148_Midterm_Multi_Tier\\Midterm Multi Tier\\midterm\\midterm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF6A83F2-A3C3-4A7E-AD58-0CB445F53E95}|midterm\\midterm.csproj|solutionrelative:midterm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6A83F2-A3C3-4A7E-AD58-0CB445F53E95}|midterm\\midterm.csproj|c:\\users\\europeonline\\downloads\\20231027142148_midterm_multi_tier\\midterm multi tier\\midterm\\midterm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6A83F2-A3C3-4A7E-AD58-0CB445F53E95}|midterm\\midterm.csproj|solutionrelative:midterm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6A83F2-A3C3-4A7E-AD58-0CB445F53E95}|midterm\\midterm.csproj|C:\\Users\\EUROPEONLINE\\Downloads\\20231027142148_Midterm_Multi_Tier\\Midterm Multi Tier\\midterm\\midterm\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6A83F2-A3C3-4A7E-AD58-0CB445F53E95}|midterm\\midterm.csproj|solutionrelative:midterm\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\EUROPEONLINE\\Downloads\\20231027142148_Midterm_Multi_Tier\\Midterm Multi Tier\\midterm\\midterm\\DAL.cs",
+              "RelativeDocumentMoniker": "midterm\\DAL.cs",
+              "ToolTip": "C:\\Users\\EUROPEONLINE\\Downloads\\20231027142148_Midterm_Multi_Tier\\Midterm Multi Tier\\midterm\\midterm\\DAL.cs",
+              "RelativeToolTip": "midterm\\DAL.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAADwvxAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:16:23.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\EUROPEONLINE\\Downloads\\20231027142148_Midterm_Multi_Tier\\Midterm Multi Tier\\midterm\\midterm\\Form1.cs",
+              "RelativeDocumentMoniker": "midterm\\Form1.cs",
+              "ToolTip": "C:\\Users\\EUROPEONLINE\\Downloads\\20231027142148_Midterm_Multi_Tier\\Midterm Multi Tier\\midterm\\midterm\\Form1.cs",
+              "RelativeToolTip": "midterm\\Form1.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAkwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:16:24.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BLL.cs",
+              "DocumentMoniker": "C:\\Users\\EUROPEONLINE\\Downloads\\20231027142148_Midterm_Multi_Tier\\Midterm Multi Tier\\midterm\\midterm\\BLL.cs",
+              "RelativeDocumentMoniker": "midterm\\BLL.cs",
+              "ToolTip": "C:\\Users\\EUROPEONLINE\\Downloads\\20231027142148_Midterm_Multi_Tier\\Midterm Multi Tier\\midterm\\midterm\\BLL.cs",
+              "RelativeToolTip": "midterm\\BLL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:16:24.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EUROPEONLINE\\Downloads\\20231027142148_Midterm_Multi_Tier\\Midterm Multi Tier\\midterm\\midterm\\Form1.cs",
+              "RelativeDocumentMoniker": "midterm\\Form1.cs",
+              "ToolTip": "C:\\Users\\EUROPEONLINE\\Downloads\\20231027142148_Midterm_Multi_Tier\\Midterm Multi Tier\\midterm\\midterm\\Form1.cs [Design]",
+              "RelativeToolTip": "midterm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:16:24.307Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
