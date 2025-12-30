@@ -1,11 +1,11 @@
---USE master;
---GO
---ALTER DATABASE[StudentProg]
---SET SINGLE_USER
---WITH ROLLBACK IMMEDIATE;
---GO
---DROP DATABASE[StudentProg];
---GO
+USE master;
+GO
+ALTER DATABASE[exam1en]
+SET SINGLE_USER
+WITH ROLLBACK IMMEDIATE;
+GO
+DROP DATABASE[exam1en];
+GO
 
 --Creating the database
 IF db_id('exam1en') IS NULL CREATE DATABASE exam1en;
