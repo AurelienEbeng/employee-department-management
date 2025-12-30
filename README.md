@@ -40,7 +40,6 @@
 - The system shall reject invalid insert or update operations.
 
 # Technologies Used
-- SQL
 - Windows Form
 - ADO .NET
 - C#
