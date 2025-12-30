@@ -39,5 +39,11 @@
 - The system shall display specific error messages when business rules are violated.
 - The system shall reject invalid insert or update operations.
 
+# Technologies Used
+- SQL
+- Windows Form
+- ADO .NET
+- C#
+
 # Entity Relationship Diagram
 <img width="339" height="580" alt="image" src="https://github.com/user-attachments/assets/75e1131a-0f4b-4eb8-83a3-0e7623d5a9f5" />
