@@ -2,15 +2,15 @@
 ## Database Creation
 - The system shall create a SQL Server database named exam1en.
 - The system shall create a Departments table with the following attributes:
- - DeptId (INT, NOT NULL, Primary Key)
- - Name (VARCHAR(50), NOT NULL)
- - MgrId (INT, Foreign Key)
+     - DeptId (INT, NOT NULL, Primary Key)
+     - Name (VARCHAR(50), NOT NULL)
+     - MgrId (INT, Foreign Key)
 - The system shall create an Employees table with the following attributes:
- - EmpId (INT, NOT NULL, Primary Key)
- - Name (VARCHAR(50), NOT NULL)
- - Age (INT, NOT NULL)
- - Salary (DECIMAL(10,2), NOT NULL)
- - DeptId (INT, NOT NULL, Foreign Key)
+     - EmpId (INT, NOT NULL, Primary Key)
+     - Name (VARCHAR(50), NOT NULL)
+     - Age (INT, NOT NULL)
+     - Salary (DECIMAL(10,2), NOT NULL)
+     - DeptId (INT, NOT NULL, Foreign Key)
 - The system shall enforce a foreign key relationship from Employees.DeptId to Departments.DeptId.
 - The system shall prevent deletion of a department if employees are assigned to it.
 - The system shall propagate updates of Departments.DeptId to Employees.DeptId.
