@@ -48,3 +48,8 @@
 
 # Entity Relationship Diagram
 <img width="339" height="580" alt="image" src="https://github.com/user-attachments/assets/75e1131a-0f4b-4eb8-83a3-0e7623d5a9f5" />
+
+<br>
+<br>
+
+Checkout the demo on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7413960850538975232/)
